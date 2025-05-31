@@ -64,7 +64,7 @@ const pool = new Pool({
 
 module.exports = pool;
 
-###5. Run the Server
+### 5. Run the Server
   node index.js
 
   | Test Case          | Input                                          | Description                                  | Expected Result                       |
